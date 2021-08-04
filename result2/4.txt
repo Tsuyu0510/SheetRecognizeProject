@@ -1,0 +1,18 @@
+{\rtf1\ansi\ansicpg950\cocoartf2580
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 /home/learning03/new100_train/test5/4.jpg: Predicted in 8.566000 milli-seconds.\
+7: 32%	(left_x:  103   top_y: 1034   width:  124   height:  112)\
+3: 30%	(left_x:  103   top_y: 1034   width:  124   height:  112)\
+3: 31%	(left_x:  203   top_y: 1030   width:  139   height:  123)\
+7: 27%	(left_x:  203   top_y: 1030   width:  139   height:  123)\
+8: 39%	(left_x:  334   top_y: 1036   width:  109   height:  115)\
+blank: 39%	(left_x:  539   top_y: 1044   width:  118   height:  110)\
+blank: 55%	(left_x:  650   top_y: 1047   width:  123   height:  103)\
+others: 44%	(left_x:  996   top_y: 1037   width:  102   height:  123)\
+blank: 43%	(left_x:  996   top_y: 1037   width:  102   height:  123)\
+blank: 45%	(left_x: 1100   top_y: 1039   width:  114   height:  121)}

@@ -15,11 +15,19 @@ import os
 filepath = './pic'
 filepath2 = './pic2'
 filepath3 = './pic3'
+
+## files stauts (how many file in the folder )
+for files in os.walk(filepath):
+    if len(files) != 0:
+        file_tag = len(files)
+        print('----------------',len(files),'files','----------------')
+
 try:
 	for file in os.listdir(filepath):
 		img = Image.open(filepath+'/'+file)
 		img = img.convert('L') ## change img to gray 
 		## binary img into black and white 
+		## threshold could define by user 
 		threshold = 200
 		table = []
 		for i in range(256):
